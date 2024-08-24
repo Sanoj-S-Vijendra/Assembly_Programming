@@ -14,7 +14,3 @@ Inspect the two executables and follow the instructions displayed on running the
 - This program asks you to input a number (say ```x```), and calculates and displays ```func(x)```
 - ```func(x)``` is a recursive function
 - Your task is to find the recurrence relation it satisfies (optionally, you can also find a closed form expression for ```func(x)```)
-
-## Submission Instructions
-
-You must submit a report ($\texttt{report.pdf}$) detailing the solutions of these tasks and how you obtained them.
