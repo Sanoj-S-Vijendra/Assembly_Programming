@@ -113,7 +113,3 @@ So if you have the address of a ```vector``` stored in $\texttt{rax}$, then you 
 A good way to program in assembly is to first think how control structures such as if-else statements, for loops and while loops could be implemented in assembly. Then, code the entire program in C, and convert it line-by-line into the corresponding assembly code. Make heavy use of comments in order to know which line of code we are at, which register is storing what variable, etc.
 
 PS: Do not think of compiling your C code and copying the resulting assembly code - handwritten assembly is very different from compiler-generated assembly, and the two can be distinguished very easily.
-
-## Submission Instructions
-
-You must submit only $\texttt{vector.asm}$ and $\texttt{heap.asm}$ inside the file ```roll_number.tar.gz``` or ```roll_number.zip```.
